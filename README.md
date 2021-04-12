@@ -11,7 +11,7 @@ Base Sample 2. UIAlertController를 사용하여 Alert 만들기
     CommonAlert.showAlertAction1(vc: self, preferredStyle: .alert, title: "Alert Style", message: "1 Button Alert")
 ```
 <br>
-버튼 2개<br>
+버튼 2개<br><br>
 
 ![image](https://sunidev.github.io/assets/images/210412/make-common-alert-alert2.PNG)
 <br>
@@ -19,7 +19,7 @@ Base Sample 2. UIAlertController를 사용하여 Alert 만들기
     CommonAlert.showAlertAction2(vc: self, preferredStyle: .alert, title: "Alert Style", message: "2 Button Alert")
 ```
 <br>
-버튼 3개<br>
+버튼 3개<br><br>
 
 ![image](https://sunidev.github.io/assets/images/210412/make-common-alert-alert3.PNG)
 <br>
@@ -38,7 +38,7 @@ Base Sample 2. UIAlertController를 사용하여 Alert 만들기
     CommonAlert.showAlertAction1(vc: self, preferredStyle: .actionSheet, title: "Action Sheet Style", message: "1 Button Action Sheet")
 ```
 <br>
-버튼 2개<br>
+버튼 2개<br><br>
 
 ![image](https://sunidev.github.io/assets/images/210412/make-common-alert-actionsheet2.PNG)
 <br>
@@ -46,7 +46,7 @@ Base Sample 2. UIAlertController를 사용하여 Alert 만들기
     CommonAlert.showAlertAction2(vc: self, preferredStyle: .actionSheet, title: "Action Sheet Style", message: "2 Button Action Sheet")
 ```
 <br>
-버튼 3개<br>
+버튼 3개<br><br>
 
 ![image](https://sunidev.github.io/assets/images/210412/make-common-alert-actionsheet3.PNG)
 <br>
