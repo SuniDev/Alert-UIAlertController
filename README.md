@@ -4,6 +4,7 @@ Base Sample 2. UIAlertController를 사용하여 Alert 만들기
 ## 1. 사용 예제 (preferredStyle = .alert)
 
 버튼 1개<br>
+
 ![image](https://sunidev.github.io/assets/images/210412/make-common-alert-alert1.PNG)
 <br>
 ```swift
@@ -11,6 +12,7 @@ Base Sample 2. UIAlertController를 사용하여 Alert 만들기
 ```
 <br>
 버튼 2개<br>
+
 ![image](https://sunidev.github.io/assets/images/210412/make-common-alert-alert2.PNG)
 <br>
 ```swift
@@ -18,6 +20,7 @@ Base Sample 2. UIAlertController를 사용하여 Alert 만들기
 ```
 <br>
 버튼 3개<br>
+
 ![image](https://sunidev.github.io/assets/images/210412/make-common-alert-alert3.PNG)
 <br>
 ```swift
@@ -28,6 +31,7 @@ Base Sample 2. UIAlertController를 사용하여 Alert 만들기
 ## 2. 사용 예제 (preferredStyle = .actionSheet)
 
 버튼 1개<br>
+
 ![image](https://sunidev.github.io/assets/images/210412/make-common-alert-actionsheet1.PNG)
 <br>
 ```swift
@@ -35,6 +39,7 @@ Base Sample 2. UIAlertController를 사용하여 Alert 만들기
 ```
 <br>
 버튼 2개<br>
+
 ![image](https://sunidev.github.io/assets/images/210412/make-common-alert-actionsheet2.PNG)
 <br>
 ```swift
@@ -42,6 +47,7 @@ Base Sample 2. UIAlertController를 사용하여 Alert 만들기
 ```
 <br>
 버튼 3개<br>
+
 ![image](https://sunidev.github.io/assets/images/210412/make-common-alert-actionsheet3.PNG)
 <br>
 ```swift
