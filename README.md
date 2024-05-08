@@ -1,5 +1,5 @@
-# SNAlert
-Base Sample 2. UIAlertController를 사용하여 Alert 만들기
+# Alert (with. UIAlertController)
+UIAlertController를 사용하여 Alert 만들기
 
 ## 1. 사용 예제 (preferredStyle = .alert)
 
@@ -56,5 +56,5 @@ Base Sample 2. UIAlertController를 사용하여 Alert 만들기
 <br><br>
 
 ## 블로그
-[[iOS/Swift] UIAlertController를 사용하여 Alert 만들기](https://sunidev.github.io/ios/make-common-alert/)
+[[iOS/Swift] UIAlertController를 사용하여 Alert 만들기](https://sunidev.tistory.com/8)
 
